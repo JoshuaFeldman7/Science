@@ -11,7 +11,7 @@ In our analogy:
 **In a series circuit, the current is the same at every point in the circuit.**
 **In a parallel circuit, the current splits at the junction and rejoins afterwards**
 
-$ I = \frac{Q}{T}$
+$\fracI = {Q}{T}$
 
 1. 20A
 2. 0.03A
