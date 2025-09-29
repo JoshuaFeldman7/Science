@@ -3,6 +3,7 @@ An electrical circuit MUST be a closed loop for a current to flow
 <br>
 <br>
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/930b1ffc-6309-4c8b-bee4-b15f33b70c99" />
+voltmeter
 <br>
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1dd5e8bd-4392-4eaf-9665-bdcfca1bf960" />
 Cell
@@ -19,8 +20,7 @@ bulb
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/74fcfe65-3473-4ece-8929-779cd5fd6d2b" />
 resistor
 <br>
-[Uploading image.png…]()
-voltmeter
+
 <br>
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d2fcaf34-8bf8-4b54-b8fa-e80586b4dc52" />
 ammeter
